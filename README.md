@@ -2,8 +2,6 @@
 
 🌱 I'm studying Information Systems at USP and I like development.
 
-⚡ I'm currently studying front-end, but I want to improve my back-end knowledge as well. I believe that both are important. In the future, I hope to be able to learn mobile.
-
 <!--
 **thatarocket/thatarocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
